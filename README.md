@@ -1,4 +1,4 @@
-# Hi there, I'm Duan Qinlu 👋
+# Hi there, I'm Duanqin Lu 👋
 
 Welcome to my GitHub profile! I'm a passionate developer with interests in various areas of software development. Here you will find my projects, contributions, and some of the technologies I love working with.
 
